@@ -4,7 +4,7 @@ Recently, remote sensing community has seen a surge in the use of multimodal dat
 ![alt text](images/NN_img.png)
 
 # URL to the paper: 
->[http://openaccess.thecvf.com/content_CVPRW_2020/papers/w6/Mohla_FusAtNet_Dual_Attention_Based_SpectroSpatial_Multimodal_Fusion_Network_for_Hyperspectral_CVPRW_2020_paper.pdf](https://www.sciencedirect.com/science/article/pii/S0893608023002058)
+>[https://www.sciencedirect.com/science/article/pii/S0893608023002058](https://www.sciencedirect.com/science/article/pii/S0893608023002058)
 
 # Requirement:
 
